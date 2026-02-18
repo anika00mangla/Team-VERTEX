@@ -223,5 +223,34 @@ DeepLabV3 Paper
 BEFORE(INITIAL):
 Train Stats:
 Graphs: <img width="1192" height="689" alt="Screenshot 2026-02-18 211635" src="https://github.com/user-attachments/assets/cd700bd7-2a85-4d13-a10e-e08011c5cf46" />
+All Metrics Curve:<img width="1200" height="1000" alt="all_metrics_curves" src="https://github.com/user-attachments/assets/a7beb763-eade-469b-81e4-64efe510b321" />
+Dice curves: <img width="1200" height="500" alt="dice_curves" src="https://github.com/user-attachments/assets/2e73f29a-2a76-49b1-b545-18ee5080c928" />
+IOU Curves:<img width="1200" height="500" alt="iou_curves" src="https://github.com/user-attachments/assets/70b603d8-5995-4639-89f9-e4c53f90ab4c" />
+Training Curves:<img width="1200" height="500" alt="training_curves" src="https://github.com/user-attachments/assets/6525a18b-7f72-4f04-a248-1c46e66ff98e" />
+
+Prediction:
+Per Class Metrics:<img width="1484" height="882" alt="per_class_metrics" src="https://github.com/user-attachments/assets/cd221111-3d04-4aa1-bc4a-6d8399834ab6" />
+Evaluation Metrics:<img width="904" height="681" alt="Screenshot 2026-02-18 220509" src="https://github.com/user-attachments/assets/1dc70be4-e6c8-43cd-a602-5a6b69948e2f" />
+Trainings:![Train](https://github.com/user-attachments/assets/190a4641-232a-442a-a2c3-e03c391f2432)
+Testing: ![Test](https://github.com/user-attachments/assets/b5cc9bda-957f-4b56-8350-6e6b796e1b3e)
+
+Visualize:
+Color Image before optimization: ![before optimization](https://github.com/user-attachments/assets/16ddd5cc-9e88-421a-8099-dc49248eca50)
+
+AFTER(FINAL):
+Train Stats:
+Graphs:![graaph2](https://github.com/user-attachments/assets/8e6aa85e-2ece-4e8e-9ce0-0aab7926a6fe)
+
+Prediction:
+Evaluation Metrics:![PREDICTION 2](https://github.com/user-attachments/assets/eb280b8c-88ee-47bf-8960-574e42bc664a)
+
+
+
+
+
+
+
+
+
 
 
