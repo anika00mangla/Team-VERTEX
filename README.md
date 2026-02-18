@@ -219,3 +219,9 @@ Duality AI Falcon Platform
 PyTorch Documentation
 UNet Paper (Ronneberger et al.)
 DeepLabV3 Paper
+
+BEFORE(INITIAL):
+Train Stats:
+Graphs: <img width="1192" height="689" alt="Screenshot 2026-02-18 211635" src="https://github.com/user-attachments/assets/cd700bd7-2a85-4d13-a10e-e08011c5cf46" />
+
+
